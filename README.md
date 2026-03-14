@@ -20,5 +20,6 @@ I am a **Senior AI Engineer** based in the Los Angeles Metropolitan Area. I spec
 - **Languages:** Python, SQL, English (Native), Chinese (Professional)
 
 ### 📫 Let's Connect
+- **LinkedIn:** [jasonwithcoffee](https://www.linkedin.com/in/jasonwithcoffee/)
 - **Location:** Los Angeles, CA
 - Always open to discussing Data Engineering architecture, GTM AI automations, and scalable ML systems!
